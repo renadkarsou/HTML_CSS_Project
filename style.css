@@ -1,0 +1,97 @@
+body { 
+    background-image: url('background-image.png');
+    background-repeat: repeat;
+   font-family: 'Lato', sans-serif;
+   font-family: 'Montserrat', sans-serif;
+   font-family: 'Noto Serif', serif;
+   font-family: 'Roboto Condensed', sans-serif;
+   font-family: 'Tajawal', sans-serif;
+   
+   }  
+   
+   img {
+       float: left; 
+       margin-right: 15px;
+   
+       
+      
+     }
+   
+   table, th, td {
+       border:2px solid gray;
+       width: 1500px;
+       text-align: left;
+   
+     }
+   
+   .ContanMe {
+   color: white;
+   text-align: center;
+   background-color: red;
+   padding: 12px 20px;
+   margin: 8px 0;
+   box-sizing: border-box;
+    
+   }
+   
+   .center {
+       margin-left: auto;
+       margin-right: auto;
+   }
+   
+   .center1 {
+       text-align: center;
+   }
+   
+   input[type=text], select, textarea {
+       width: 100%;
+       padding: 12px;
+       border: 1px solid #ccc;
+       border-radius: 4px;
+       box-sizing: border-box;
+       margin-top: 6px;
+       margin-bottom: 16px;
+       resize: vertical;
+       align-items: center;
+       align-content: center;
+       align-self: center;
+       text-align: center;
+   }
+   
+   input[type=email] {
+       width: 100%;
+       padding: 12px;
+       border: 1px solid #ccc;
+       border-radius: 4px;
+       box-sizing: border-box;
+       margin-top: 6px;
+       margin-bottom: 16px;
+       resize: vertical;
+       align-items: center;
+       align-content: center;
+       align-self: center;
+       text-align: center;
+   }
+   
+   #subject{
+   
+   height:200px
+   
+   }
+   
+   #form{
+       align-items: center;
+       align-content: center;
+       align-self: center;
+       text-align: center;
+   }
+   
+   input[type=submit]{
+       color: white;
+       text-align: center;
+        background-color: red;
+     padding: 12px 20px;
+     margin: 8px 0;
+     box-sizing: border-box;
+   }
+   
